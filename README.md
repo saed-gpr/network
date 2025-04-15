@@ -1,8 +1,10 @@
 # Basic Network Knowledge
-In this repository, i want to share basic network knowledge that are essential to know it. if you want to be a network engineer you should know about this crutial topics.
+In this repository, I aim to share basic networking knowledge that is essential for understanding the field. If you aspire to become a network engineer, you should be familiar with these crucial topics.
+
 ### Topics
 
-#### 1 - Networking basics :
+ We're going to learn about these topics
+####  1 - Networking basics : 
    - Definition of network
    - types of network
        - LAN
