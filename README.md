@@ -58,7 +58,7 @@ A LAN network contains devices like laptops, printers, or phones that are locate
  <h3>LAN</h3>
 </div>  
 
-<h3>WAN</h3>
+<h3>WAN :</h3>
 
 Actually, a WAN is formed by connecting multiple LAN networks. This schematic will help you understand this concept.
 
@@ -66,7 +66,7 @@ Actually, a WAN is formed by connecting multiple LAN networks. This schematic wi
 ![WAN](https://github.com/user-attachments/assets/155b4b1f-3a14-401a-a2ef-d8732322cbac)
 
 <div align="center">
- <h3>WAN :</h3> 
+ <h3>WAN</h3> 
 </div>
 
 As you can see, multiple LAN networks are connected to each other, forming a WAN network. This is how a WAN network is formed.
