@@ -66,7 +66,7 @@ Actually, a WAN is formed by connecting multiple LAN networks. This schematic wi
 ![WAN](https://github.com/user-attachments/assets/155b4b1f-3a14-401a-a2ef-d8732322cbac)
 
 <div align="center">
- <h3>WAN</h3> 
+ <h3>WAN :</h3> 
 </div>
 
 As you can see, multiple LAN networks are connected to each other, forming a WAN network. This is how a WAN network is formed.
