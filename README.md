@@ -41,6 +41,24 @@ In this repository, I aim to share basic networking knowledge that is essential 
   - NAT (networkind address Translation)
   - CIDR (classless inter-Domain Routing)
 
+#
+<h3>Network definition:</h3>
+A network is a system where computers or even phones can communicate with each other, sharing data or connections.
+There are two types of networks: LAN (Local Area Network) and WAN (Wide Area Network)
+
+<h3>LAN :</h3>
+A LAN network contains devices like laptops, printers, or phones that are located in a small area, such as a home or office.
+
+#### The picture below shows a simple representation of a LAN network
+
+
+![LAN](https://github.com/user-attachments/assets/e2afb0de-6fa0-45af-b24e-20f324b4ad48)
+
+<div align="center">
+  <!-- <h1>LAN</h1> -->
+  <p>LAN network</p>
+</div>
+
 # TO-DO LIST
 - [x] intruduction
 - [ ] Networking basics
